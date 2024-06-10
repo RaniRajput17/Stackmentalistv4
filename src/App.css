@@ -1,0 +1,12 @@
+/* @import "~slick-carousel/slick/slick.css"; */
+/* @import "~slick-carousel/slick/slick-theme.css"; */
+
+
+
+
+body{
+  
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background: transparent url(/public/banner.jpg) 100% 0 no-repeat;
+}
